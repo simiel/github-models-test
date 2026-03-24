@@ -1,0 +1,32 @@
+ node sample.js
+The capital of Ghana is Accra.
+
+Accra is a coastal metropolis on the Gulf of Guinea and the country’s political, economic, and cultural hub. It blends historic Ga settlements and colonial-era forts with modern business districts, bustling markets, and beach suburbs. The urban area (often linked with the adjoining port city of Tema) has a population in the millions, making it Ghana’s largest city.
+
+Key points about Accra:
+- Location and layout: Situated in the Greater Accra Region. Historic quarters like Jamestown/Usshertown sit near the old lighthouse and forts; business and diplomatic areas include the Central Business District, Airport City, Cantonments, Osu, Ridge, and Labone; fast-growing residential and commercial zones include East Legon, Spintex, and Adenta.
+- History: Originated as Ga settlements in the 15th century. European powers built trading forts—James Fort (British), Ussher Fort (Dutch), and Christiansborg/Osu Castle (Danish, later a seat of government). The British moved the colonial capital from Cape Coast to Accra in 1877. It became the capital of independent Ghana in 1957. Many landmarks celebrate independence and Kwame Nkrumah’s legacy.
+- Economy: Dominated by services—finance, trade, logistics, telecoms, media, education, government, and a lively creative sector. Nearby Tema Harbour is Ghana’s main seaport; Kotoka International Airport makes Accra a regional air hub. Light manufacturing, food processing, textiles, and construction are significant. A growing tech/startup scene revolves around incubators and coworking spaces.
+- Culture and landmarks: 
+  - Independence/Black Star Square, and the Kwame Nkrumah Mausoleum and Park.
+  - National Museum of Ghana and the National Theatre.
+  - Jamestown Lighthouse and colonial forts.
+  - Osu “Oxford Street” for shops and nightlife; Makola Market and the Arts Centre for crafts and fabrics.
+  - Beaches like Labadi (La), Kokrobite, and Bojo Beach; the W.E.B. Du Bois Centre.
+  - Festivals include Homowo (Ga people) and the Chale Wote Street Art Festival in Jamestown.
+- People and language: English is the official language. Ga is indigenous to Accra; Twi (Akan) and Ewe are also widely heard, reflecting Ghana’s diversity.
+- Climate: Tropical savanna. Hot and humid year-round with two rainy periods (roughly April–June and September–November). The Harmattan (Dec–Feb) brings drier, dust-laden air from the Sahara. Coastal breezes moderate the heat somewhat.
+- Transport: Dense road network with chronic traffic at peak times. Minibus “trotro” routes are the most common public transport; city buses and ride-hailing apps operate widely. Major corridors include the Accra–Tema Motorway and the N1 (George Bush Highway). Rail is limited but under gradual expansion.
+- Education and institutions: Home to leading institutions such as the University of Ghana (Legon), Ghana Institute of Management and Public Administration (GIMPA), Accra Technical University, research institutes, and many private universities and international schools.
+- Sports: Football is king—Accra Hearts of Oak play at the Accra Sports Stadium. Boxing has deep roots in Jamestown; beach areas see surfing and leisure sports.
+- Food: Street and restaurant staples include jollof rice, waakye, banku or kenkey with grilled tilapia and shito (hot pepper sauce), kelewele (spiced fried plantain), and fresh seafood.
+- Governance: Seat of the presidency (Jubilee House), Parliament, Supreme Court, and most ministries, foreign embassies, and international organizations.
+- Challenges: Rapid urbanization strains housing, traffic, and services. Flooding occurs in some low-lying areas during heavy rains; coastal erosion, waste management, and air quality are ongoing concerns. Cost of living is relatively high compared with much of Ghana.
+- Visiting tips: 
+  - Best time is the drier months (roughly November to February). 
+  - Carry cash and cards; the currency is the Ghanaian cedi (GHS).
+  - Dress light for heat/humidity; stay hydrated.
+  - Petty theft can occur in crowded areas—use normal city precautions.
+  - Traffic can be heavy—plan extra time for airport and cross-town trips.
+
+Accra offers a mix of history, contemporary West African culture, and a fast-evolving urban scene—beaches and street art sit a short drive from government buildings, galleries, and packed markets.
