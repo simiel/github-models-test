@@ -1,8 +1,12 @@
 {
   "type": "module",
   "dependencies": {
+    "@ai-sdk/openai": "^3.0.48",
     "@azure-rest/ai-inference": "latest",
     "@azure/core-auth": "latest",
-    "@azure/core-sse": "latest"
+    "@azure/core-sse": "latest",
+    "@github/models": "^0.0.1-beta.2",
+    "ai": "^6.0.137",
+    "openai": "^6.32.0"
   }
 }
